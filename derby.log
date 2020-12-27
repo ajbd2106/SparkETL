@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Wed Sep 09 22:31:19 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-74c7-b760-000015616fa0 
+on database directory memory:/Users/ashujha/tools/projects/metacat/testdb with class loader ParallelWebappClassLoader
+  context: ROOT
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@246b179d
+ 
+Loaded from file:/usr/local/Cellar/tomcat/9.0.37/libexec/webapps/ROOT/WEB-INF/lib/derby-10.14.2.0.jar
+java.vendor=N/A
+java.runtime.version=14.0.1+14
+user.dir=/Users/ashujha/tools/projects/metacat
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
